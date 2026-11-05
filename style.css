@@ -1,6 +1,7 @@
 body{
     background-image: url("Photos/pretty.jpg");
-    background-size: auto;
+    background-repeat: auto;
+    background-size: 700px 700px;
 }
 /*FONTS*/
 .redaction-20-regular {
