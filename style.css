@@ -2,5 +2,30 @@ body{
     background-image: url("Photos/pretty.jpg");
     background-size: auto;
 }
+/*FONTS*/
+.redaction-20-regular {
+  font-family: "Redaction 20", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/*BOLD FONTS*/
+.redaction-20-bold {
+  font-family: "Redaction 20", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+/*ITALIC FONTS*/
+.redaction-20-regular-italic {
+  font-family: "Redaction 20", serif;
+  font-weight: 400;
+  font-style: italic;
+}
 
-
+/*FOOTER*/
+.resource-card {
+  background-color: #48052d;
+  margin: 2em auto;
+  padding: 1.5em;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.08);
+}
