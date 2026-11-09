@@ -1,3 +1,49 @@
+.navbar {
+  background-color: #48052d;
+  padding: 1em 2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.navbar-left img {
+  height: 35px;
+}
+
+.navbar-right {
+  list-style: none;
+  display: flex;
+  gap: 2em;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-right a {
+  color: #e2d177;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar-right a:hover {
+  background-color: #48052d;
+  color: #48052d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body{
     background-image: url("Photos/pretty.jpg");
     background-repeat: auto;
